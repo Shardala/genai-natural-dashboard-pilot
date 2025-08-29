@@ -7,7 +7,8 @@
 
 # Information
 
-The app generates a dynamic chart from user's written or spoken (natural language) query.
+- The app generates a dynamic chart from user's written (natural language) query.
+- spoken natural queries not yet implemented
 
 Example queries:
 - "Show me revenue by region for Q2"
