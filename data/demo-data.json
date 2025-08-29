@@ -1,0 +1,9 @@
+[
+  {"date":"2023-01","region":"North","revenue":1200,"signups":35,"churn":5},
+  {"date":"2023-02","region":"South","revenue":900,"signups":22,"churn":4},
+  {"date":"2023-03","region":"East","revenue":1100,"signups":28,"churn":6},
+  {"date":"2023-04","region":"West","revenue":1500,"signups":40,"churn":7},
+  {"date":"2023-05","region":"NorthEast","revenue":1130,"signups":35,"churn":8},
+  {"date":"2023-06","region":"NortWest","revenue":1400,"signups":20,"churn":3},
+  {"date":"2023-07","region":"SouthWest","revenue":1230,"signups":52,"churn":9}
+]
